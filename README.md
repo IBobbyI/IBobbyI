@@ -25,14 +25,14 @@ Here are some ideas to get you started:
 ### 📌 Pinned Projects / Repositories 📌
 <p align="center">
     <a href="https://github.com/IBobbyI/Libft42">
-      <img width="300" src="https://www.guidedelamobilite.com/wp-content/uploads/2017/01/ecole_42_guide_de_la_mobilite-261x185.jpg/>
+      <img width="200" src="https://www.guidedelamobilite.com/wp-content/uploads/2017/01/ecole_42_guide_de_la_mobilite-261x185.jpg/>
     </a>
     <a href="https://github.com/IBobbyI/Ft_Printf42">
-      <img width="400" src="https://www.guidedelamobilite.com/wp-content/uploads/2017/01/ecole_42_guide_de_la_mobilite-261x185.jpg"/>
+      <img width="200" src="https://www.guidedelamobilite.com/wp-content/uploads/2017/01/ecole_42_guide_de_la_mobilite-261x185.jpg"/>
       <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leviarista&repo=eco-stats-peru&show_icons=true&theme=tokyonight&show_owner=false" /> -->
     </a>
     <a href="https://github.com/IBobbyI/Get_Next_Line42">
-      <img width="410" src="https://www.guidedelamobilite.com/wp-content/uploads/2017/01/ecole_42_guide_de_la_mobilite-261x185.jpg"/>
+      <img width="200" src="https://www.guidedelamobilite.com/wp-content/uploads/2017/01/ecole_42_guide_de_la_mobilite-261x185.jpg"/>
       <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leviarista&repo=twenty_one_mining&show_icons=true&theme=tokyonight&show_owner=false" /> -->
     </a>
 </p>
