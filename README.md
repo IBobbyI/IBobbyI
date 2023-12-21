@@ -2,8 +2,7 @@
 
 ## 👋 Hi everyone Boris here and welcome to my Github !👋
 
-Currently a student at 42 Lyon (France) eager to learn more about C language, i will be posting most of my school porjects and thoughts upon the subjects i will bew given.
-Enjoy yourselves !
+Currently a student at 42 Lyon (France). Eager to learn more about C language, i will be posting most of my school projects and subjects i am/was working on.
 <!--
 **IBobbyI/IBobbyI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
