@@ -1,4 +1,4 @@
-![Header](https://github.com/IBobbyI/IBobbyI/blob/main/github-header-image%20(1).png)
+![Header](https://github.com/IBobbyI/IBobbyI/blob/main/42lyon-banner.jpeg)
 
 ## 👋 Hi everyone Boris here and welcome to my Github !👋
 
@@ -32,8 +32,3 @@ Here are some ideas to get you started:
       <img width="200" src="https://github.com/IBobbyI/IBobbyI/blob/main/GNL%20logo.png"/>
       <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leviarista&repo=twenty_one_mining&show_icons=true&theme=tokyonight&show_owner=false" /> -->
     </a>
-<p align="center">
-    <a href="https://github.com/IBobbyI">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IBobbyI&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Boris' GitHub Stats" />
-    </a>
-</p>
