@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### 📌 Pinned Projects / Repositories 📌
 <p align="center">
     <a href="https://github.com/IBobbyI/Libft42">
-      <img width="200" src="https://www.guidedelamobilite.com/wp-content/uploads/2017/01/ecole_42_guide_de_la_mobilite-261x185.jpg"/>
+      <img width="200" src="https://github.com/IBobbyI/IBobbyI/blob/main/Logo%20Repo%20Gits.png"/>
     </a>
     <a href="https://github.com/IBobbyI/Ft_Printf42">
       <img width="200" src="https://www.guidedelamobilite.com/wp-content/uploads/2017/01/ecole_42_guide_de_la_mobilite-261x185.jpg"/>
