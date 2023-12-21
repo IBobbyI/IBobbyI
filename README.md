@@ -1,4 +1,4 @@
-![Header](./github-header-image(1).png)
+![Header](https://github.com/IBobbyI/IBobbyI/blob/main/github-header-image%20(1).png)
 
 ### Hi there 👋
 
