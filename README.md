@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### 📌 Pinned Projects / Repositories 📌
 <p align="center">
     <a href="https://github.com/IBobbyI/Libft42">
-      <img width="410" src="https://repository-images.githubusercontent.com/464195386/913299a3-ab61-4f25-af43-0875996a0f13"/>
+      <img width="512" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg"/>
     </a>
     <a href="https://github.com/IBobbyI/Ft_Printf42">
       <img width="400" src="https://repository-images.githubusercontent.com/340539352/ef20cd80-7a0d-11eb-89f7-7d47d811e502"/>
