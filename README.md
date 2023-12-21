@@ -1,12 +1,9 @@
 ![Header](https://github.com/IBobbyI/IBobbyI/blob/main/github-header-image%20(1).png)
 
-### 👋 Hi everyone, Boris here !👋
+### 👋 Hi everyone Boris here and welcome to my Github !👋
 
-Welcome to my personnal github page !
-Currently a student at 42 Lyon (France), eager to learn more about C language !
-I will be posting most of my school porjects and thoughts upon the subjects i will bew given.
-Feel free to check it out !
-
+Currently a student at 42 Lyon (France) eager to learn more about C language, i will be posting most of my school porjects and thoughts upon the subjects i will bew given.
+Enjoy yourselves !
 <!--
 **IBobbyI/IBobbyI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
