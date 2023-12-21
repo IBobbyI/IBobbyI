@@ -1,6 +1,6 @@
 ![Header](https://github.com/IBobbyI/IBobbyI/blob/main/42lyon-banner.jpeg)
 
-## 👋 Hi everyone Boris here and welcome to my Github !👋
+## 👋 Hi everyone, Boris here, and welcome to my Github !👋
 
 Currently a student at 42 Lyon (France). Eager to learn more about C language, i will be posting most of my school projects and subjects i am/was working on.
 <!--
