@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 📌 Pinned Projects / Repositories 📌
 <p align="center">
     <a href="https://github.com/IBobbyI/Libft42">
-      <img width="200" src="https://github.com/IBobbyI/IBobbyI/blob/main/Libft%20logo.png"/>
+      <img width="200" src="https://github.com/IBobbyI/IBobbyI/blob/main/Libft%20Logo.png"/>
     </a>
     <a href="https://github.com/IBobbyI/Ft_Printf42">
       <img width="200" src="https://github.com/IBobbyI/IBobbyI/blob/main/Printf%20logo.png"/>
