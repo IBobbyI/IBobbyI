@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Boris and i'm currently a student at 42 Lyon (France). Eager to learn more about C language, i will be posting most of my school projects and subjects i am/was working on.</p>
+<p align="left">My name is Boris and i'm currently a student at 42 Nice (France). Eager to learn more about C language, i will be posting most of my school projects and subjects i am/was working on.</p>
 
 ###
 
