@@ -1,20 +1,30 @@
-<h1 align="left">👋 Hey everyone !</h1>
-
 ###
 
-<p align="left">My name is Boris and i'm currently a student at 42 Nice (France). Eager to learn more about C language, i will be posting most of my school projects and subjects i am/was working on.</p>
+# Hi there, I'm Boris Schwietzer 👋
 
-###
+Welcome to my GitHub! I'm currently a student at 42 Nice (France). Eager to learn more about C language, i will be posting most of my school projects and subjects i am/was working on.**.
 
-<h2 align="left">⚡ Main Language :</h2>
+---
 
-###
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-14354C?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-14354C?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-14354C?style=for-the-badge&logo=docker&logoColor=2496ED)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="40" alt="c logo"  />
-</div>
+---
 
-###
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boschwie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boschwie&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=boschwie&theme=onedark&no-frame=true&column=6)
+
+---
 
 <h2 align="left">📌 Pinned Projects :</h2>
 
@@ -34,4 +44,8 @@
     </a>
 </p>
 
-###
+---
+
+### 💡 Fun Fact
+_"Dark mode makes everything 10% cooler."_ 😎
+
