@@ -1,12 +1,13 @@
 <!-- Header -->
-<h1 align="center">Boris Schwietzer</h1>
+<h1 align="center">Hi there, I'm Boris 👋</h1>
 <p align="center">
   <strong>@boschwie</strong> · Systems & low-level tinkerer
 </p>
 
 <!-- Short tagline -->
 <p align="center">
-  Welcome to my GitHub! I'm currently a student at 42 Nice (France). Eager to learn more about C language, i will be posting most of my school projects and subjects i am/was working on.
+  Welcome to my GitHub! I'm currently a student at 42 Nice (France).
+  Eager to learn more about C language, i will be posting most of my school projects and subjects i am/was working on.
 </p>
 
 <!-- Tech stack (C only) -->
