@@ -46,7 +46,7 @@
         <img src="https://img.shields.io/badge/FirstProjectA-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="FirstProjectA" />
       </a>
       <a href="https://github.com/IBobbyI/FirstProjectB">
-        <img src="https://img.shields.io/badge/FirstProjectB-Brown-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="FirstProjectB" />
+        <img src="https://img.shields.io/badge/FirstProjectB-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="FirstProjectB" />
       </a>
     </p>
   </details>
@@ -56,10 +56,10 @@
     <summary>🔵 Second Circle</summary>
     <p align="center">
       <a href="https://github.com/IBobbyI/SecondProjectA">
-        <img src="https://img.shields.io/badge/SecondProjectA-Blue-181717?style=for-the-badge&logo=github&logoColor=white" alt="SecondProjectA" />
+        <img src="https://img.shields.io/badge/SecondProjectA-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="SecondProjectA" />
       </a>
       <a href="https://github.com/IBobbyI/SecondProjectB">
-        <img src="https://img.shields.io/badge/SecondProjectB-Green-4CAF50?style=for-the-badge" alt="SecondProjectB" />
+        <img src="https://img.shields.io/badge/SecondProjectB-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="SecondProjectB" />
       </a>
     </p>
   </details>
@@ -69,16 +69,15 @@
     <summary>🟣 Third Circle</summary>
     <p align="center">
       <a href="https://github.com/IBobbyI/ThirdProjectA">
-        <img src="https://img.shields.io/badge/ThirdProjectA-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="ThirdProjectA" />
+        <img src="https://img.shields.io/badge/ThirdProjectA-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="ThirdProjectA" />
       </a>
       <a href="https://github.com/IBobbyI/ThirdProjectB">
-        <img src="https://img.shields.io/badge/ThirdProjectB-FF6F61?style=for-the-badge" alt="ThirdProjectB" />
+        <img src="https://img.shields.io/badge/ThirdProjectB-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="ThirdProjectB" />
       </a>
     </p>
   </details>
 
 </details>
-
 
 ---
 
@@ -94,7 +93,7 @@
 ### 📊 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IBobbyI&theme=tokyo-night&bg_color=0D1117&line=58A6FF&point=58A6FF&hide_border=true)
 
-### 🤣 Random Dev Joke ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-08-26%2009:43%20UTC-blue?style=flat-square)
+### 🤣 Random Dev Joke
 Why dot net developers don't wear glasses? Because they see sharp.
 
 
