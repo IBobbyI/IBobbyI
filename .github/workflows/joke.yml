@@ -1,7 +1,7 @@
-name: Random Joke
+name: Random Dev Joke
 on:
   schedule:
-    - cron: '0 9 * * *'
+    - cron: '0 9 * * *'  # daily 9:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -10,6 +10,26 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-      - name: Insert Joke into README
-        uses: ABSphreak/readme-jokes@master
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Fetch Random Joke and Update README
+        run: |
+          JOKE=$(curl -s https://official-joke-api.appspot.com/jokes/programming/random | jq -r '.[0].setup + " " + .[0].punchline')
+          echo "### 🤣 Random Dev Joke" > joke.md
+          echo "<!--STARTS_HERE_QUOTE_README-->" >> joke.md
+          echo "$JOKE" >> joke.md
+          echo "<!--ENDS_HERE_QUOTE_README-->" >> joke.md
+
+          # Replace old joke in README.md
+          awk '/<!--STARTS_HERE_QUOTE_README-->/ {print; getline; print; getline; print; next}1' README.md > README.tmp
+          sed -i '/<!--STARTS_HERE_QUOTE_README-->/, /<!--ENDS_HERE_QUOTE_README-->/c\'"$JOKE"'' README.tmp
+          mv README.tmp README.md
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update random dev joke" || echo "No changes to commit"
+          git push
