@@ -20,19 +20,32 @@
 
 ---
 
-<h2 align="left">📌 Pinned Projects :</h2>
+<h2 align="left">📌 Pinned Projects</h2>
 
 <p align="center">
-    <a href="https://github.com/IBobbyI/Libft42">
-        <img width="200" src="https://github.com/IBobbyI/IBobbyI/blob/main/Libft%20Logo.png"/>
-    </a>
-    <a href="https://github.com/IBobbyI/Ft_Printf42">
-        <img width="200" src="https://github.com/IBobbyI/IBobbyI/blob/main/Printf%20Logo.png"/>
-    </a>
-    <a href="https://github.com/IBobbyI/Get_Next_Line42">
-        <img width="200" src="https://github.com/IBobbyI/IBobbyI/blob/main/GNL%20Logo.png"/>
-    </a>
+  <!-- Main pinned projects -->
+  <a href="https://github.com/IBobbyI/Libft42">
+    <img width="150" src="https://github.com/IBobbyI/IBobbyI/blob/main/Libft%20Logo.png" alt="Libft42" />
+  </a>
+  <a href="https://github.com/IBobbyI/Ft_Printf42">
+    <img width="150" src="https://github.com/IBobbyI/IBobbyI/blob/main/Printf%20Logo.png" alt="Ft_Printf42" />
+  </a>
+  <a href="https://github.com/IBobbyI/Get_Next_Line42">
+    <img width="150" src="https://github.com/IBobbyI/IBobbyI/blob/main/GNL%20Logo.png" alt="Get_Next_Line42" />
+  </a>
 </p>
+
+<details>
+  <summary>📂 More Projects</summary>
+
+  <ul>
+    <li><a href="https://github.com/IBobbyI/ProjectX">ProjectX</a></li>
+    <li><a href="https://github.com/IBobbyI/ProjectY">ProjectY</a></li>
+    <li><a href="https://github.com/IBobbyI/ProjectZ">ProjectZ</a></li>
+    <!-- Add more links as needed -->
+  </ul>
+
+</details>
 
 ---
 
