@@ -15,15 +15,24 @@ jobs:
 
       - name: Fetch Random Joke and Update README
         run: |
+          # Fetch a programming joke
           JOKE=$(curl -s https://official-joke-api.appspot.com/jokes/programming/random | jq -r '.[0].setup + " " + .[0].punchline')
-          echo "### 🤣 Random Dev Joke" > joke.md
+
+          # Create the badge with current date
+          DATE=$(date +'%Y-%m-%d %H:%M UTC')
+          BADGE="![Last Updated](https://img.shields.io/badge/Last%20Updated-${DATE// /%20}-blue?style=flat-square)"
+
+          # Build joke section
+          echo "### 🤣 Random Dev Joke $BADGE" > joke.md
           echo "<!--STARTS_HERE_QUOTE_README-->" >> joke.md
           echo "$JOKE" >> joke.md
           echo "<!--ENDS_HERE_QUOTE_README-->" >> joke.md
 
-          # Replace old joke in README.md
+          # Replace old joke section in README
           awk '/<!--STARTS_HERE_QUOTE_README-->/ {print; getline; print; getline; print; next}1' README.md > README.tmp
           sed -i '/<!--STARTS_HERE_QUOTE_README-->/, /<!--ENDS_HERE_QUOTE_README-->/c\'"$JOKE"'' README.tmp
+          # Replace header with badge
+          sed -i '/### 🤣 Random Dev Joke/c\### 🤣 Random Dev Joke '"$BADGE"'' README.tmp
           mv README.tmp README.md
 
       - name: Commit and Push
@@ -31,5 +40,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "Update random dev joke" || echo "No changes to commit"
+          git commit -m "Update random dev joke with badge" || echo "No changes to commit"
           git push
