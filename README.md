@@ -23,29 +23,35 @@
 <h2 align="left">📌 Pinned Projects</h2>
 
 <p align="center">
-  <!-- Main pinned projects -->
+  <!-- Main pinned projects as button-style badges -->
   <a href="https://github.com/IBobbyI/Libft42">
-    <img width="150" src="https://github.com/IBobbyI/IBobbyI/blob/main/Libft%20Logo.png" alt="Libft42" />
+    <img src="https://img.shields.io/badge/Libft42-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Libft42" />
   </a>
   <a href="https://github.com/IBobbyI/Ft_Printf42">
-    <img width="150" src="https://github.com/IBobbyI/IBobbyI/blob/main/Printf%20Logo.png" alt="Ft_Printf42" />
+    <img src="https://img.shields.io/badge/Ft_Printf42-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Ft_Printf42" />
   </a>
   <a href="https://github.com/IBobbyI/Get_Next_Line42">
-    <img width="150" src="https://github.com/IBobbyI/IBobbyI/blob/main/GNL%20Logo.png" alt="Get_Next_Line42" />
+    <img src="https://img.shields.io/badge/Get_Next_Line42-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Get_Next_Line42" />
   </a>
 </p>
 
 <details>
   <summary>📂 More Projects</summary>
 
-  <ul>
-    <li><a href="https://github.com/IBobbyI/ProjectX">ProjectX</a></li>
-    <li><a href="https://github.com/IBobbyI/ProjectY">ProjectY</a></li>
-    <li><a href="https://github.com/IBobbyI/ProjectZ">ProjectZ</a></li>
-    <!-- Add more links as needed -->
-  </ul>
+  <p align="center">
+    <a href="https://github.com/IBobbyI/ProjectX">
+      <img src="https://img.shields.io/badge/ProjectX-Blue?style=for-the-badge" alt="ProjectX" />
+    </a>
+    <a href="https://github.com/IBobbyI/ProjectY">
+      <img src="https://img.shields.io/badge/ProjectY-Orange?style=for-the-badge" alt="ProjectY" />
+    </a>
+    <a href="https://github.com/IBobbyI/ProjectZ">
+      <img src="https://img.shields.io/badge/ProjectZ-Green?style=for-the-badge" alt="ProjectZ" />
+    </a>
+  </p>
 
 </details>
+
 
 ---
 
