@@ -23,7 +23,7 @@
 <h2 align="left">📌 Pinned Projects</h2>
 
 <p align="center">
-  <!-- Main pinned projects with language logos -->
+  <!-- Main pinned projects -->
   <a href="https://github.com/IBobbyI/Libft42">
     <img src="https://img.shields.io/badge/Libft42-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Libft42" />
   </a>
@@ -40,10 +40,13 @@
 
   <p align="center">
     <a href="https://github.com/IBobbyI/SomeShellProject">
-      <img src="https://img.shields.io/badge/SomeShellProject-Brown?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="SomeShellProject" />
+      <img src="https://img.shields.io/badge/SomeShellProject-Brown-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="SomeShellProject" />
     </a>
     <a href="https://github.com/IBobbyI/AnotherProject">
-      <img src="https://img.shields.io/badge/AnotherProject-Blue?style=for-the-badge&logo=github&logoColor=white" alt="AnotherProject" />
+      <img src="https://img.shields.io/badge/AnotherProject-Blue-181717?style=for-the-badge&logo=github&logoColor=white" alt="AnotherProject" />
+    </a>
+    <a href="https://github.com/IBobbyI/PythonProject">
+      <img src="https://img.shields.io/badge/PythonProject-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PythonProject" />
     </a>
   </p>
 
