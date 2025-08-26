@@ -39,15 +39,13 @@
 
 ### 📈 Activity
 
-<!-- Streak: stable, dark-blue theme -->
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="github-readme-stats-coral-nine-63.vercel.app"
-      alt="GitHub Streak"
-    />
-  </a>
-</p>
+<!-- Github Stat Cards -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!-- Trophies (official embed style). If it ever shows as a link, it's likely a fetch/cache hiccup. -->
 <p align="center">
