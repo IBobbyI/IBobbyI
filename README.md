@@ -40,12 +40,12 @@
 
   <!-- First Circle -->
   <details>
-    <summary>🟢 First Circle</summary>
+    <summary>&emsp;🟢 First Circle</summary>
     <p align="center">
-      <a href="https://github.com/IBobbyI/FirstProjectA">
+      &emsp;&emsp;<a href="https://github.com/IBobbyI/FirstProjectA">
         <img src="https://img.shields.io/badge/FirstProjectA-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="FirstProjectA" />
       </a>
-      <a href="https://github.com/IBobbyI/FirstProjectB">
+      &emsp;&emsp;<a href="https://github.com/IBobbyI/FirstProjectB">
         <img src="https://img.shields.io/badge/FirstProjectB-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="FirstProjectB" />
       </a>
     </p>
@@ -53,12 +53,12 @@
 
   <!-- Second Circle -->
   <details>
-    <summary>🔵 Second Circle</summary>
+    <summary>&emsp;🔵 Second Circle</summary>
     <p align="center">
-      <a href="https://github.com/IBobbyI/SecondProjectA">
+      &emsp;&emsp;<a href="https://github.com/IBobbyI/SecondProjectA">
         <img src="https://img.shields.io/badge/SecondProjectA-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="SecondProjectA" />
       </a>
-      <a href="https://github.com/IBobbyI/SecondProjectB">
+      &emsp;&emsp;<a href="https://github.com/IBobbyI/SecondProjectB">
         <img src="https://img.shields.io/badge/SecondProjectB-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="SecondProjectB" />
       </a>
     </p>
@@ -66,19 +66,18 @@
 
   <!-- Third Circle -->
   <details>
-    <summary>🟣 Third Circle</summary>
+    <summary>&emsp;🟣 Third Circle</summary>
     <p align="center">
-      <a href="https://github.com/IBobbyI/ThirdProjectA">
+      &emsp;&emsp;<a href="https://github.com/IBobbyI/ThirdProjectA">
         <img src="https://img.shields.io/badge/ThirdProjectA-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="ThirdProjectA" />
       </a>
-      <a href="https://github.com/IBobbyI/ThirdProjectB">
+      &emsp;&emsp;<a href="https://github.com/IBobbyI/ThirdProjectB">
         <img src="https://img.shields.io/badge/ThirdProjectB-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="ThirdProjectB" />
       </a>
     </p>
   </details>
 
 </details>
-
 ---
 
 ### 📈 Activity
