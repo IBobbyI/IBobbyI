@@ -43,9 +43,9 @@
 <a href="https://github.com/IBobbyI/github-readme-stats">
   <img height=200 align="center" src="github-readme-stats-boris-projects-7ceee052.vercel.app" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
+</a> -->
 
 <!-- Trophies (official embed style). If it ever shows as a link, it's likely a fetch/cache hiccup. -->
 <p align="center">
