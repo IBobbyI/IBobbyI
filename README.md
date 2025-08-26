@@ -36,7 +36,7 @@
 </p>
 
 <details>
-  <summary>📂 More Projects</summary>
+  <summary>📂 More 42 Projects</summary>
 
   <!-- First Circle -->
   <details>
