@@ -43,7 +43,7 @@
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img 
-      src="https://streak-stats.demolab.com?user=boschwie&theme=github-dark-blue&hide_border=true&border_radius=12"
+      src="github-readme-stats-coral-nine-63.vercel.app"
       alt="GitHub Streak"
     />
   </a>
