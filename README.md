@@ -44,3 +44,12 @@
     <img height=200 align="center" 
          src="https://github-readme-stats-coral-nine-63.vercel.app/api?username=IBobbyI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
   </a>
+
+### 📊 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=boschwie&theme=tokyo-night&bg_color=0D1117&line=58A6FF&point=58A6FF&hide_border=true)
+
+### 🤣 Random Dev Joke
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
+
+
