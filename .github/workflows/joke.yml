@@ -1,0 +1,11 @@
+name: Random Joke
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+jobs:
+  update-joke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: readmejokes/jokes-action@main
