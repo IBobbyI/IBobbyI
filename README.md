@@ -48,7 +48,7 @@
 ### 📊 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IBobbyI&theme=tokyo-night&bg_color=0D1117&line=58A6FF&point=58A6FF&hide_border=true)
 
-### 🤣 Random Dev Joke ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-08-26%2008:12%20UTC-blue?style=flat-square)
+### 🤣 Random Dev Joke
 Why dot net developers don't wear glasses? Because they see sharp.
 
 
