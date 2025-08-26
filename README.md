@@ -38,19 +38,47 @@
 <details>
   <summary>📂 More Projects</summary>
 
-  <p align="center">
-    <a href="https://github.com/IBobbyI/SomeShellProject">
-      <img src="https://img.shields.io/badge/SomeShellProject-Brown-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="SomeShellProject" />
-    </a>
-    <a href="https://github.com/IBobbyI/AnotherProject">
-      <img src="https://img.shields.io/badge/AnotherProject-Blue-181717?style=for-the-badge&logo=github&logoColor=white" alt="AnotherProject" />
-    </a>
-    <a href="https://github.com/IBobbyI/PythonProject">
-      <img src="https://img.shields.io/badge/PythonProject-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PythonProject" />
-    </a>
-  </p>
+  <!-- First Circle -->
+  <details>
+    <summary>🟢 First Circle</summary>
+    <p align="center">
+      <a href="https://github.com/IBobbyI/FirstProjectA">
+        <img src="https://img.shields.io/badge/FirstProjectA-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="FirstProjectA" />
+      </a>
+      <a href="https://github.com/IBobbyI/FirstProjectB">
+        <img src="https://img.shields.io/badge/FirstProjectB-Brown-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="FirstProjectB" />
+      </a>
+    </p>
+  </details>
+
+  <!-- Second Circle -->
+  <details>
+    <summary>🔵 Second Circle</summary>
+    <p align="center">
+      <a href="https://github.com/IBobbyI/SecondProjectA">
+        <img src="https://img.shields.io/badge/SecondProjectA-Blue-181717?style=for-the-badge&logo=github&logoColor=white" alt="SecondProjectA" />
+      </a>
+      <a href="https://github.com/IBobbyI/SecondProjectB">
+        <img src="https://img.shields.io/badge/SecondProjectB-Green-4CAF50?style=for-the-badge" alt="SecondProjectB" />
+      </a>
+    </p>
+  </details>
+
+  <!-- Third Circle -->
+  <details>
+    <summary>🟣 Third Circle</summary>
+    <p align="center">
+      <a href="https://github.com/IBobbyI/ThirdProjectA">
+        <img src="https://img.shields.io/badge/ThirdProjectA-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="ThirdProjectA" />
+      </a>
+      <a href="https://github.com/IBobbyI/ThirdProjectB">
+        <img src="https://img.shields.io/badge/ThirdProjectB-FF6F61?style=for-the-badge" alt="ThirdProjectB" />
+      </a>
+    </p>
+  </details>
 
 </details>
+
 
 ---
 
