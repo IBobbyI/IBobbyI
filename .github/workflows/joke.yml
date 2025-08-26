@@ -12,4 +12,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Insert Joke into README
-        uses: ABSphreak/readme-jokes@main
+        uses: ABSphreak/readme-jokes@master
