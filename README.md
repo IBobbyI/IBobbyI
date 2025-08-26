@@ -49,7 +49,6 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IBobbyI&theme=tokyo-night&bg_color=0D1117&line=58A6FF&point=58A6FF&hide_border=true)
 
 ### 🤣 Random Dev Joke
-<!--STARTS_HERE_QUOTE_README-->
-<!--ENDS_HERE_QUOTE_README-->
+Why dot net developers don't wear glasses? Because they see sharp.
 
 
