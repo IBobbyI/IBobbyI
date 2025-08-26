@@ -3,9 +3,13 @@ on:
   schedule:
     - cron: '0 9 * * *'
   workflow_dispatch:
+
 jobs:
   update-joke:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: readmejokes/jokes-action@main
+      - name: Insert Joke into README
+        uses: ABSphreak/readme-jokes@main
