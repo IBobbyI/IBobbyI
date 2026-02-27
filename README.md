@@ -10,7 +10,7 @@
 ## Tech Focus
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
   <img alt="Shell" src="https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white">
