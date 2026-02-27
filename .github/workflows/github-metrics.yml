@@ -1,0 +1,26 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics SVG
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          user: IBobbyI
+          filename: assets/github-metrics.svg
+          template: classic
+          base: header, activity, repositories, metadata
+          config_timezone: Europe/Paris
+          plugin_lines: yes
+          plugin_followup: yes
+          plugin_isocalendar: yes
