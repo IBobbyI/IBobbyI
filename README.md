@@ -5,11 +5,12 @@
 
 ## About
 - Focused on C, memory management, algorithms, and UNIX tooling.
-- I use this profile to document progress through 42 projects and share implementations.
+- I use this profile to document progress through 42 projects and share my imperfect implementations.
 
 ## Tech Focus
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c&logoColor=white">
   <img alt="Shell" src="https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white">
@@ -26,20 +27,22 @@
   <summary>More 42 projects</summary>
 
 ### First Circle
-- [FirstProjectA](https://github.com/IBobbyI/FirstProjectA)
-- [FirstProjectB](https://github.com/IBobbyI/FirstProjectB)
+- [Printf](https://github.com/IBobbyI/Ft_Printf)
+- [Get_next_line](https://github.com/IBobbyI/Get_Next_Line)
 
 ### Second Circle
-- [SecondProjectA](https://github.com/IBobbyI/SecondProjectA)
-- [SecondProjectB](https://github.com/IBobbyI/SecondProjectB)
+- [Push_Swap](https://github.com/IBobbyI/Push_Swap)
+- [Pipex](https://github.com/IBobbyI/Pipex)
+- [So_long](https://github.com/IBobbyI/So_Long)
 
 ### Third Circle
-- [ThirdProjectA](https://github.com/IBobbyI/ThirdProjectA)
-- [ThirdProjectB](https://github.com/IBobbyI/ThirdProjectB)
+- [Minishell](https://github.com/IBobbyI/Minishell)
+- [Philosophers](https://github.com/IBobbyI/Philosophers)
+
+### Fourth Circle
+- [Cub3d](https://github.com/IBobbyI/Cub3d)
 
 </details>
 
 ## Activity
 ![GitHub Metrics](./assets/github-metrics.svg)
-
-_Updated daily via GitHub Actions._
